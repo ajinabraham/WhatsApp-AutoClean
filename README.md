@@ -13,7 +13,7 @@ WhatsApp media files will be deleted and .nomedia file will be added so that Wha
 
 * Auto - Open the app, specify the repeating interval and click start button.
 
-This option will repeat the cleaning process based on the minutes you have specified. The app will not run at phone start up so you have to manually start every time. (Feature can be added on recquest
+This option will repeat the cleaning process based on the minutes you have specified. The app will not run at phone start up so you have to manually start every time. (Feature to load at startup can be added on request)
 
 Disable button will restore the default WhatsApp behaviour and thereafter WhatsApp media will be shown in default Android Gallery.
 
