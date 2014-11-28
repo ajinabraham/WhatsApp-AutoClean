@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="19.1.0" >
+        <source path="C:\Users\aabraham\AndroidStudioProjects\WhatsAppAutoClean\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\aabraham\AndroidStudioProjects\WhatsAppAutoClean\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\aabraham\AndroidStudioProjects\WhatsAppAutoClean\app\src\release\assets" />
+    </dataSet>
+
+</merger>
